@@ -10,25 +10,43 @@
     
     <body>
         <nav>
-            <ul>
-                <li><a href="/index.html">Google</a></li>
-            </ul>
+            <a href="../index.html">
+                <img src="../assets/images/logo.png" alt="Google Logo" title="Go to Homepage">
+            </a>
         </nav>
 
-        <header>
-            <h1>ADVANCED SEARCH</h1>
-        </header>
-
         <main>
+            <header>
+                <h1>ADVANCED SEARCH</h1>
+            </header>
+
             <form action="https://google.com/search">
-                <input type="text" name="q">
-                <input type="submit" value="Advanced Search">
+                <fieldset>
+                    <legend>Find pages with...</legend>
+                        
+                    <label> all these words:
+                        <input type="text" name="as_q">
+                    </label>
+                    <br>
+                    <label> this exact word or phrase:
+                        <input type="text" name="as_epq">
+                    </label>
+                    <br>
+                    <label> any of these words:
+                        <input type="text" name="as_oq">
+                    </label>
+                    <br>
+                    <label> none of these words:
+                        <input type="text" name="as_eq">
+                    </label>
+                    <br>
+                    <input type="submit" value="Advanced Search">
+                    </fieldset>
             </form>
         </main>
 
         <footer>
 
         </footer>
-
     </body>
 </html>
