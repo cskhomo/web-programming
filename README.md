@@ -4,9 +4,9 @@
 
 ## Index
 
-- [Planning for Success: My Personal Roadmap](#Planning-for-Success---My-Personal-Roadmap)
+- [Planning for Success: My Personal Roadmap](#planning-for-success---my-personal-roadmap)
  
-- [What You See is What You Get: HTML & CSS](#What-You-See-is-What-You-Get---HTML-&-CSS)
+- [What You See is What You Get: HTML & CSS](#what-you-see-is-what-you-get---html-and-css)
 
 
 ## Planning for Success - My Personal Roadmap
@@ -19,4 +19,4 @@ Harvard University also offers other Computer Science courses, including a Pytho
 
 ![CS50P and CS50SQL](./0.assets/images/supplementary-courses.png "CS50 Python, SQL")
 
-## What You See is What You Get - HTML & CSS
+## What You See is What You Get - HTML and CSS

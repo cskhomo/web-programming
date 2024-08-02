@@ -1,2 +1,3 @@
 *.backup
-TODO.txt
+TODO*
+.vscode*
