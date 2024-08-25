@@ -1,1 +1,1 @@
-Documenting my progress though CS50's Web Programming Course using Python, JavaScript and associated Libraries and Frameworks.
+Web Application Development using Python, JavaScript, SQL for Harvard CS50 Courses.

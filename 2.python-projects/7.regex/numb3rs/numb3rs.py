@@ -10,7 +10,7 @@ def main():
 def validate(ip):
 
     number = "[0-9]{1,3}"
-    pattern = f"^({number})[.]({number})[.]({number})[.]({number})$"
+    pattern = fr"^([{number}])\.([{number}])\.([{number}])\.([{number}])$"
     numb3rs = search(pattern, ip)
 
     if not numb3rs:
