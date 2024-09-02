@@ -20,4 +20,6 @@ SELECT * FROM (
     WHERE "RBI" > 0
     ORDER BY "salary"/"RBI" 
     LIMIT 10
-);
+)
+
+ORDER BY "last_name";
