@@ -1,1 +1,1 @@
-Web Application Development using Python, JavaScript, SQL for Harvard CS50 Courses.
+Web Application Development using Python, JavaScript and SQL for Harvard CS50 Courses.
